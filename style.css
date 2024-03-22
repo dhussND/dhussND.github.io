@@ -16,3 +16,7 @@ body {
 img{
   padding: 10px; 
 }
+
+body {
+  background-image: url('notredame.jpg');
+}
