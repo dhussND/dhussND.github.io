@@ -1,3 +1,10 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: url('notredame.jpg');
+  background-size: cover;
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -5,26 +12,6 @@
   width: 50%;
 }
 
-/* body {
-  margin: auto;
-  width: 640px; 
-  padding: 50px;
-  font-family: 'Arial', sans-serif; 
-  color: #33475b;    
-      } */
-
 img{
   padding: 10px; 
-}
-
-/* body {
-  background-image: url('notredame.jpg');
-}
-*/
-
-body {
-  width: 100vw;
-  height: 100vh;
-  background: url('https://i.imgur.com/vHHl8Xk.jpg');
-  background-size: cover;
 }
