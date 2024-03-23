@@ -17,6 +17,14 @@ img{
   padding: 10px; 
 }
 
-body {
+/* body {
   background-image: url('notredame.jpg');
+}
+*/
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: url('https://i.imgur.com/vHHl8Xk.jpg');
+  background-size: cover;
 }
