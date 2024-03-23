@@ -1,7 +1,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background: 'notredame.jpg';
+  background: url('notredame.jpg');
   background-size: cover;
 }
 
