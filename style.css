@@ -11,6 +11,7 @@ body {
   align-items: center; /* Center items vertically within the container */
 }
 
-img{
-  padding: 10px; 
+img {
+  padding: 10px;
+  border-radius: 50%;
 }
