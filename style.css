@@ -15,3 +15,7 @@ img {
   padding: 10px;
   border-radius: 50%;
 }
+
+.text {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
